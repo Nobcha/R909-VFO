@@ -5,7 +5,7 @@ R909-DSP is composed with Arduino-Si5351a of the panel-PCB and TA2003-Si4732 of 
 The panel-PCB was designed to be installed in 88x38x70 aluminum case.
 I will introduce the schematic, Arduino sketch, and case installation for R909-VFO.
 
-日本語版
+（日本語版）
 アナログ式の無線機をデジタル化改造するのに利用できるVFOです。
 DSPを使う受信機R909-DSPを設計試作した時に構成したVFOを独立させたものです。
 R909-DSPはArduino制御のSi5351aと操作部・表示部が載ったPanel基板とTA2003-Si4732が載ったRF基板に分かれています。
