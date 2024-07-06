@@ -20,33 +20,49 @@ The uploaded file list
 R909-DSP_VFO	name	address	note
 Panel PCB For VFO
 	Gerber　	https://github.com/Nobcha/R909-VFO/5531_ATm_25.kicad_pcb.zip  PCBGOGO
+ 
 	Block diagram	https://github.com/Nobcha/R909-VFO/	
+ 
 	BOM	https://github.com/Nobcha/R909-VFO/	
+ 
 	schematic	https://github.com/Nobcha/R909-VFO/ R909-VFO_scm_rev.jpg
+ 
 
 Sketch	i2c scanner @3.3	https://github.com/Nobcha/R909-VFO/ i2c_scanner_R909PANEL-OLED_4732.ino
+
       	JCR VFO	https://github.com/Nobcha/R909-VFO/ Changed to KPA-5351 sketch.txt  Port change
-	      R909‗VFO	https://github.com/Nobcha/R909-VFO/ R909-VFO_sketch_0628.zip
+       
+	R909‗VFO	https://github.com/Nobcha/R909-VFO/ R909-VFO_sketch_0628.zip
 
 Manual		https://github.com/Nobcha/R909-VFO/R909ーVFO_Manual_en.pdf
 
+
 F-panel PCB	Gerber　	https://github.com/Nobcha/R909-VFO/front-p.kicad_pcb.zip  PCBGOGO
+
 B-panel PCB	Gerber　	https://github.com/Nobcha/R909-VFO/back-p.kicad_pcb.zip   PCBGOGO
 
 
 R909-DSP_VFO	ファイルの種類	GITHUBアドレス	注記
 VFO用の基板データ
 	   基板発注用	https://github.com/Nobcha/R909-VFO/5531_ATm_25.kicad_pcb.zip   PCBGOGO
+    
 	   ブロックダイヤ	https://github.com/Nobcha/R909-VFO/	
+    
 	   部品表　1頁	https://github.com/Nobcha/R909-VFO/R909-VFO_BOM_1_2_ja.jpg
+    
 	   部品表　2頁	https://github.com/Nobcha/R909-VFO/R909-VFO_BOM_2_2_ja.jpg
-    	回路図	https://github.com/Nobcha/R909-VFO/ R909-VFO_scm_rev.jpg
+    
+    	　　回路図	https://github.com/Nobcha/R909-VFO/ R909-VFO_scm_rev.jpg
 
 Sketch	i2c scanner @3.3	https://github.com/Nobcha/R909-VFO/ i2c_scanner_R909PANEL-OLED_4732.ino
+
       	JCR VFO	https://github.com/Nobcha/R909-VFO/ Changed to KPA-5351 sketch.txt  Port change
-	      R909‗VFO	https://github.com/Nobcha/R909-VFO/ R909-VFO_sketch_0628.zip
+       
+	R909‗VFO	https://github.com/Nobcha/R909-VFO/ R909-VFO_sketch_0628.zip
 
 取扱説明書	組立操作説明書	https://github.com/Nobcha/R909-VFO/R909ーVFO_Manual_ja.jpg
 
+
 F-panel PCB	Gerber　	https://github.com/Nobcha/R909-VFO/front-p.kicad_pcb.zip  PCBGOGO
+
 B-panel PCB	Gerber　	https://github.com/Nobcha/R909-VFO/back-p.kicad_pcb.zip   PCBGOGO
