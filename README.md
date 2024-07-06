@@ -18,6 +18,7 @@ R909-DSPはArduino制御のSi5351aと操作部・表示部が載ったPanel基�
 
 The uploaded file list
 R909-DSP_VFO	name	address	note
+
 Panel PCB For VFO
 	Gerber　	https://github.com/Nobcha/R909-VFO/5531_ATm_25.kicad_pcb.zip  PCBGOGO
  
@@ -43,6 +44,7 @@ B-panel PCB	Gerber　	https://github.com/Nobcha/R909-VFO/back-p.kicad_pcb.zip   
 
 
 R909-DSP_VFO	ファイルの種類	GITHUBアドレス	注記
+
 VFO用の基板データ
 	   基板発注用	https://github.com/Nobcha/R909-VFO/5531_ATm_25.kicad_pcb.zip   PCBGOGO
     
