@@ -5,7 +5,7 @@ R909-DSP is composed with Arduino-Si5351a of the panel-PCB and TA2003-Si4732 of 
 The panel-PCB was designed to be installed in 88x38x70 aluminum case.
 This VFO is combined panel-PCB with AdaFruits Si5351a module.
 I will introduce the schematic, Arduino sketch, and case installation as a R909-VFO.
-Please refer the manual as https://github.com/Nobcha/R909-VFO/R909ーVFO_Manual_en.pdf .
+Please refer the manual as [https://github.com/Nobcha/R909-VFO/R909ーVFO_Manual_en.pdf](https://github.com/Nobcha/R909-VFO/blob/main/R909%E3%83%BCVFO_Manual_en.pdf) .
 
 （日本語版）
 アナログ式の無線機をデジタル化改造するのに利用できるVFOです。
