@@ -1,4 +1,5 @@
 # R909-VFO
+![IMG_20240812_234212579](https://github.com/user-attachments/assets/3ca65505-a9bc-44ab-9928-50b397e67658)
 To remodel the convensional analog radio kits, the digital VFO is nesessary. 
 I derived such VFO circuit PCB from the DSP radio design of R909-DSP.
 R909-DSP is composed with Arduino-Si5351a of the panel-PCB and TA2003-Si4732 of RF-PCB.
